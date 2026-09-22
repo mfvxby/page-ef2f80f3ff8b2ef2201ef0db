@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "b5d50452bdff679e59078f2c",
+  "owner": "mfvxby",
+  "repo": "page-ef2f80f3ff8b2ef2201ef0db",
+  "title": "小夜XY",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "ef2f80f3ff8b2ef2201ef0db",
+      "a": "小夜XY",
+      "b": "2027官方最新地址导航",
+      "entity": "小夜XY",
+      "brand": "小夜XY",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "28dec9f6402a7240e46945b6c13620100cfed061023b96a9aa7466b0da91ecdb",
+      "content": {
+        "primary_entity": "小夜XY",
+        "keyword1": "小夜XY",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_DESCRIPTION": "，小夜XY主打海外网络加速场景，提供基础版、旗舰版与团队版三档订阅，月付与年付可选，流量从每月 100GB 到 1000GB 逐级提升，设备数从 3 台扩展到 20 台，适合个人日常使用到小型团队协作。选择时先看设备数量与月流量需求，再结合流媒体解锁、专线优化与工单支持等权益决定档位。",
+          "AI_HERO_SUBTITLE": "小夜XY 海外加速订阅选择",
+          "AI_HERO_INTRO": "小夜XY 面向需要稳定海外连接的用户，提供按流量和设备数分档的订阅方案，覆盖日常浏览、流媒体观看与低延迟加速场景。不同套餐在节点池、带宽与售后响应上有差异，可依据自身设备数量和月流量消耗挑选。",
+          "AI_VISUAL_TITLE": "小夜XY 加速方案",
+          "AI_HIGHLIGHT_1": "三档套餐按流量与设备数区分",
+          "AI_HIGHLIGHT_2": "年付方案价格约合月付八三折",
+          "AI_HIGHLIGHT_3": "旗舰版含 IPLC 专线加速优化",
+          "AI_FEATURES_TITLE": "套餐与使用要点",
+          "AI_FEATURES_INTRO": "从设备规模、流量消耗和订阅周期三个角度评估套餐匹配度。",
+          "AI_FEATURE_TITLE_1": "按设备数选档",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台，按常用手机、电脑和平板数量决定。",
+          "AI_FEATURE_TITLE_2": "按流量估月费",
+          "AI_FEATURE_TEXT_2": "每月 100GB 适合轻度浏览，300GB 覆盖流媒体与办公，1000GB 面向团队共享。",
+          "AI_FEATURE_TITLE_3": "按周期省费用",
+          "AI_FEATURE_TEXT_3": "年付方案折算后单月成本低于月付，长期使用可选年付，短期体验先试月付。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "根据设备系统挑选对应客户端，再按客户端提供的订阅导入方式完成配置。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版、旗舰版与团队版在流量、设备数和节点权益上逐级提升，可对照下表选择。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_GUIDE_INTRO": "先确定套餐，再核对设备与系统适配，最后按客户端文档导入订阅。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_1": "依据设备数量与每月流量需求，在基础版、旗舰版、团队版中选定一档。",
+          "AI_STEP_TITLE_2": "核对适配",
+          "AI_STEP_TEXT_2": "确认所用系统与客户端版本满足订阅要求，避免导入失败。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "依照对应客户端文档导入订阅信息，完成后测试连接是否正常。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "选对档位，连接更顺",
+          "AI_CLOSING_TEXT": "按设备数与流量挑好套餐，再依照客户端文档完成订阅导入即可开始使用。",
+          "AI_FAQ_ANSWER_1": "基础版 ¥15/月含 100GB 流量，支持 3 台设备；旗舰版 ¥35/月含 300GB，支持 5 台设备并带 IPLC 专线；团队版 ¥85/月含 1000GB，支持 20 台设备。按人数和流量选即可。",
+          "AI_FAQ_ANSWER_2": "订阅链接可在客户端内导入，Clash 系客户端支持一键从链接生成配置，Shadowrocket 与 v2rayNG 可扫码或粘贴链接。具体步骤以各客户端文档为准。",
+          "AI_FAQ_ANSWER_3": "一个账号可同时在线的设备数由套餐决定，基础版 3 台、旗舰版 5 台、团队版 20 台。超出时新设备可能无法连接，可升级套餐解决。",
+          "AI_FAQ_ANSWER_4": "月付适合短期体验，年付折算后每月更低，如基础版年付 ¥150、旗舰版 ¥350、团队版 ¥850。长期使用选年付更划算，但建议先月付确认线路质量。",
+          "AI_FAQ_ANSWER_5": "可在客户端内切换节点或重连订阅。旗舰版带 IPLC 专线，对延迟敏感的游戏或视频场景可优先选用专线节点，实际速度受本地网络影响。",
+          "AI_FAQ_QUESTION_1": "小夜XY 套餐怎么选？",
+          "AI_FAQ_QUESTION_2": "订阅链接如何导入客户端？",
+          "AI_FAQ_QUESTION_3": "同时在线设备数有限制吗？",
+          "AI_FAQ_QUESTION_4": "月付和年付哪个更划算？",
+          "AI_FAQ_QUESTION_5": "连接慢或断线怎么处理？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "swhnk.cn",
+    "host": "swhnk.cn"
+  },
+  "file_hashes": {
+    "index.html": "1e4709eda34e7b42d38ec74d0da81d4aed03c6ef10624b23d813d690590abfe7",
+    "sitemap.xml": "8d24007367b532d1a446109b6a97b806adde9389754e9784d74164a4408e4431",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "1d117e7ec41aa95d8915096b526af976a7a6d46b51bc043faa6d87c312a981e7",
+    "robots.txt": "503de0b2ff96146d4875987f46768479af631c811749c8cc785b95f941488809",
+    "39e01855f70021c8048263229b23823c.txt": "c23cf8f189e04a13f4d082f2d29e1faaef8c4c7a447d4e86863ea2a66b329faf"
+  },
+  "revision": "07411cf0f9eadd15014a45c4e4d54ad843ea12c9c30f1816b37b81f78fcb0db8"
+}
